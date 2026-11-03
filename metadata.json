@@ -1,0 +1,8 @@
+{
+  "name": "Người Hà Nội thanh lịch, văn minh.",
+  "description": "Nền tảng bình chọn video Facebook theo thời gian thực cho cộng đồng khán giả với bảng xếp hạng trực tiếp, kiểm soát chống gian lận và chia sẻ kết quả lên Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
